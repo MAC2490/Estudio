@@ -1,0 +1,10 @@
+											CLASE JAVA 10-04-2023  
+
+- eventos en javaScript 
+- Frameworks 
+- nedbeans
+- JFrame
+- LaYout
+- JPaswordfiled
+- InitComponent = Constructor de patron de diseño (solo para los componentes visuales)
+- extends JFrame

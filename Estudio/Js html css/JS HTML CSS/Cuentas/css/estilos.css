@@ -1,0 +1,10 @@
+.table{
+    width: 40%;
+    margin-left: 20%;
+    margin-top: 2em;
+}
+
+.form-control, .boton{
+    width: 20% !important;
+    margin-left: 30%;
+}
